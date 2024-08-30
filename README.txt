@@ -1,0 +1,1 @@
+Module is changing own value that is displaying in home site.

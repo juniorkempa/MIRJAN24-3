@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>firstmodule</name>
+    <displayName><![CDATA[FirstModule]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Moduł PrestaShop 1.7, kt&oacute;rego zadaniem jest wyświetlanie bloku HTML na gł&oacute;wnej stronie sklepu internetowego]]></description>
+    <author><![CDATA[Krystian Kempa]]></author>
+    <tab><![CDATA[front_office]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
